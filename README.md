@@ -1,6 +1,6 @@
 ## Hello :D
 
-I'm a **Software Engineering Student** passionate about finding efficient solutions that make people's lives easier while continuously learning. 
+I'm a **Software Devoloper** passionate about finding efficient solutions that make people's lives easier while continuously learning. 
 
 I'm currently learning **Go** and **Data Science**.
 
