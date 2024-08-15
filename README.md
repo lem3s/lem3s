@@ -1,6 +1,6 @@
 ## Hello :D
 
-I'm a **Software Engineering Student** passionate about finding efficient solutions that make people's lives easier while continously learning. 
+I'm a **Software Engineering Student** passionate about finding efficient solutions that make people's lives easier while continuously learning. 
 
 I'm currently learning **Go** and **Data Science**.
 
@@ -21,4 +21,4 @@ Other      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,css,html,js,jquery,linux,md,py,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,py,selenium,html,css,js,jquery,linux,c,md)](https://skillicons.dev)
