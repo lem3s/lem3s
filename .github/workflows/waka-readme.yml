@@ -1,34 +1,16 @@
 name: Waka Readme
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 7 * * *"
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          CODE_LANG: go # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
