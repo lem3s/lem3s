@@ -2,7 +2,7 @@
 
 I'm a **Software Developer** passionate about finding efficient solutions that make people's lives easier while continuously learning. 
 
-I'm currently learning **Go** and **Data Science**.
+Currently learning **Go** and **Data Science**.
 
 This month I spent my time on: 
 <!--START_SECTION:waka-->
