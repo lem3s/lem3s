@@ -4,7 +4,7 @@ I'm a **Software Engineer Student** passionate about finding efficient solutions
 
 Currently learning **Go** and **Data Science**.
 
-This month I spent my time on: 
+What I have been studying/using on personal projects:
 <!--START_SECTION:waka-->
 
 ```txt
