@@ -8,11 +8,11 @@ What I have been studying/using on personal projects:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   7 hrs 45 mins   █████████████▒░░░░░░░░░░░   53.37 %
-Python     3 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.28 %
-Lua        45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-tmux       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Bash       35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Markdown   7 hrs 28 mins   ████████████████▒░░░░░░░░   64.98 %
+Python     1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+tmux       38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Lua        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+JSON       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
