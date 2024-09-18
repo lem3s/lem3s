@@ -8,10 +8,10 @@ What I have been studying/using on personal projects:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   5 hrs 56 mins   ████████████████▒░░░░░░░░   65.46 %
-tmux       38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Markdown   5 hrs 56 mins   ████████████████▒░░░░░░░░   65.37 %
+tmux       38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
 Lua        31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-JSON       26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+JSON       26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 C          25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
