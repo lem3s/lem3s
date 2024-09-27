@@ -8,11 +8,11 @@ What I have been studying/using on personal projects:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   4 hrs 38 mins   ███████████████▓░░░░░░░░░   63.03 %
-Go         1 hr 48 mins    ██████░░░░░░░░░░░░░░░░░░░   24.61 %
-Python     47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-Lua        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Markdown   3 hrs 23 mins   ██████████████░░░░░░░░░░░   55.59 %
+Go         1 hr 48 mins    ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+Python     47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Lua        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
