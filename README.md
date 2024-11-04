@@ -17,4 +17,4 @@ TypeScript   1 hr 18 mins    ██▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,py,selenium,html,css,js,jquery,linux,c,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,java,go,py,html,css,js,docker,linux)](https://skillicons.dev)
