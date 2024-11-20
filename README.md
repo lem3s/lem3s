@@ -8,11 +8,11 @@ What I have been studying/using on personal projects:
 <!--START_SECTION:waka-->
 
 ```txt
-Go           10 hrs 16 mins  ████████████▒░░░░░░░░░░░░   49.02 %
-Nix          4 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   20.13 %
-TypeScript   1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Markdown     54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Lua          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Go           10 hrs 16 mins  █████████████░░░░░░░░░░░░   51.79 %
+Nix          3 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+TypeScript   1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Markdown     54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Lua          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
