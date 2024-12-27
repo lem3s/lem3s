@@ -8,8 +8,9 @@ What I have been studying/using on personal projects:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 53 mins   ██████████████████████▓░░   90.73 %
-Markdown     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+TypeScript   2 hrs 51 mins   █████████████████████▒░░░   84.95 %
+Markdown     21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+Nix          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
