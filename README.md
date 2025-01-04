@@ -9,10 +9,10 @@ What I have been studying/using on personal projects:
 
 ```txt
 TypeScript   2 hrs 51 mins   ███████████▓░░░░░░░░░░░░░   47.22 %
-tmux         58 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Markdown     36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-Bash         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Nix          22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+tmux         58 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Markdown     36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Bash         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Nix          22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
 ```
 
 <!--END_SECTION:waka-->
