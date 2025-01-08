@@ -8,11 +8,11 @@ What I have been studying/using on personal projects:
 <!--START_SECTION:waka-->
 
 ```txt
-tmux         58 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.09 %
-TypeScript   39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-Markdown     36 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-Bash         32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Nix          22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+tmux         58 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.77 %
+Markdown     36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+Bash         32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+TypeScript   25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Nix          22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
 ```
 
 <!--END_SECTION:waka-->
