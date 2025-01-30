@@ -8,10 +8,7 @@ What I have been studying/using on personal projects:
 <!--START_SECTION:waka-->
 
 ```txt
-tmux   58 mins         ███████████████░░░░░░░░░░   59.42 %
-Bash   28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.00 %
-Lua    6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Java   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
