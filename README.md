@@ -4,4 +4,4 @@ I'm a **Software Engineer Student** passionate about finding efficient solutions
 
 Currently learning **Go** and **Data Science**.
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,java,go,py,html,css,js,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,dotnet,java,html,css,js,docker,linux)](https://skillicons.dev)
