@@ -1,7 +1,7 @@
 ## Hello :D
 
-I'm a **Software Engineer Student** passionate about finding efficient solutions that make people's lives easier and build cool software while continuously learning. 
+I'm a **Software Engineer Student** passionate about finding efficient solutions that make people's lives easier and build good software while continuously learning. 
 
-Currently learning **Go** and **Data Science**.
+Currently practicing **Go** and **Data Science**.
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,dotnet,java,html,css,js,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,java,html,css,js,docker,linux)](https://skillicons.dev)
