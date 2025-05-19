@@ -1,10 +1,10 @@
-## Hello :D
+## Hi! :D
 
-I'm a **Software Engineer Student** passionate about building **good new things** that solves someones problem continuously learning.
+I'm a **Software Engineer Student** passionate about building **good new things** that solve real-world problems while continuously learning.
 
-Buildind [Kuaddra](https://kuaddra.com)
+Currently building [Kuaddra](https://kuaddra.com)
 
-Currently practicing **Go** and **Data Engineering**.
+I'm also practicing **Go** and **Data Engineering**.
 
 <!--START_SECTION:waka-->
 
@@ -17,4 +17,9 @@ Makefile   0 secs          ▒░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,java,html,css,js,docker,linux)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,java,aws,js,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=py,go,java,aws,js,docker,linux" />
+  </a>
+</p>
