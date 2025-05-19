@@ -1,6 +1,8 @@
 ## Hello :D
 
-I'm a **Software Engineer Student** passionate about finding efficient solutions that make people's lives easier and build good software while continuously learning. 
+I'm a **Software Engineer Student** passionate about building **good new things** that solves someones problem continuously learning.
+
+Buildind [Kuaddra](https://kuaddra.com)
 
 Currently practicing **Go** and **Data Engineering**.
 
