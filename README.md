@@ -20,6 +20,10 @@ Makefile   0 secs          ▒░░░░░░░░░░░░░░░░�
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,java,aws,js,docker,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,java,aws,js,docker,linux" />
   </a>
 </p>
