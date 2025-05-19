@@ -16,14 +16,4 @@ Makefile   0 secs          ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,java,aws,js,docker,linux" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,java,aws,js,docker,linux" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,go,java,aws,js,docker,linux)](https://skillicons.dev)
