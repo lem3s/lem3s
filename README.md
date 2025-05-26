@@ -4,7 +4,7 @@ I'm a **Software Engineer Student** passionate about building **good new things*
 
 Currently building [Kuaddra](https://kuaddra.com)
 
-I'm also practicing **Go** and **Data Engineering**.
+I'm also practicing **Go**, **Data Engineering** and **AI Agents**.
 
 <!--START_SECTION:waka-->
 
