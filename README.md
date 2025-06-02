@@ -9,11 +9,11 @@ I'm also practicing **Go**, **Data Engineering** and **AI Agents**.
 <!--START_SECTION:waka-->
 
 ```txt
-Go           8 hrs 24 mins   █████████████░░░░░░░░░░░░   51.41 %
-TypeScript   5 hrs 59 mins   █████████░░░░░░░░░░░░░░░░   36.65 %
-SQL          1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Bash         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Go           9 hrs 20 mins   ████████████▒░░░░░░░░░░░░   48.77 %
+TypeScript   7 hrs 30 mins   █████████▓░░░░░░░░░░░░░░░   39.14 %
+SQL          1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Bash         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
