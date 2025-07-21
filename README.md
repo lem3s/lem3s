@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer Student** passionate about building **good new things** that solve real-world problems while continuously learning.
 
-Currently building [Kuaddra](https://kuaddra.com)
+Currently building [🎾 Kuaddra](https://kuaddra.com)
 
 I'm also practicing **Go**, **Data Engineering** and **AI Agents**.
 
