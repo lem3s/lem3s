@@ -9,10 +9,10 @@ I'm also practicing **Go**, **Data Engineering** and **AI Agents**.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   6 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.41 %
-Markdown             1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Bash                 1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-TypeScript           53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Go                   6 hrs 33 mins   █████████████▓░░░░░░░░░░░   55.23 %
+Markdown             1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+Bash                 1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Other                49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
 ```
 
 <!--END_SECTION:waka-->
