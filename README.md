@@ -9,8 +9,7 @@ I'm also practicing **Go**, **Data Engineering** and **AI Agents**.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   14 mins         ████████████████████████▒   97.88 %
-Go         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Markdown   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
