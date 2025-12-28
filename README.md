@@ -10,7 +10,7 @@ I'm also practicing **Go**, **Data Engineering** and **AI Agents**.
 
 ```txt
 C#               18 hrs 12 mins  ██████████████░░░░░░░░░░░   56.22 %
-TypeScript       5 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+TypeScript       5 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
 Go               5 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
 Other            32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
