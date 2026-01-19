@@ -9,11 +9,11 @@ I'm also practicing **Go**, **Data Engineering** and **AI Agents**.
 <!--START_SECTION:waka-->
 
 ```txt
-Go               3 hrs 44 mins   ████████████▒░░░░░░░░░░░░   49.75 %
-TypeScript       1 hr 46 mins    ██████░░░░░░░░░░░░░░░░░░░   23.66 %
-C#               1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-Python           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-jsonc            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Go               2 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.61 %
+TypeScript       1 hr 46 mins    ███████▒░░░░░░░░░░░░░░░░░   28.90 %
+C#               1 hr 29 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+Python           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+jsonc            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
